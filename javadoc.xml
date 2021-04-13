@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="C:\Users\Timoté Dallaporta\.p2\pool\plugins\org.hamcrest.core_1.3.0.v20180420-1519.jar;main/target/original-main-0.0.1-SNAPSHOT.jar;controller/target/controller-0.0.1-SNAPSHOT.jar;C:\Users\Timoté Dallaporta\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar;entity/target/entity-0.0.1-SNAPSHOT.jar;view/target/view-0.0.1-SNAPSHOT.jar;main/target/main-0.0.1-SNAPSHOT.jar;contract/target/contract-0.0.1-SNAPSHOT.jar;model/target/model-0.0.1-SNAPSHOT.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="contract,main,model,model.element,controller,entity,view,model.element.DPdecorator,model.element.dynamicElement" source="1.8" sourcepath="controller/src/main/java;main/src/main/java;model/src/test/java;entity/src/main/java;model/src/main/java;contract/src/main/java;view/src/main/java" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
